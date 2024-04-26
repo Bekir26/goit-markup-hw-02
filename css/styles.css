@@ -4,6 +4,8 @@
     font-style: normal;
     line-height: 24px;
     letter-spacing: 2%;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 .title-one {
     font-weight: bold;
@@ -30,5 +32,17 @@
 .nav-text {
     text-decoration: none;
     color: black;
+    
+}
+.logo {
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:  #4d5ae5;
+
+}
+.span-text {
+    color:  #2e2f42;
     
 }
