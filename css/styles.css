@@ -14,14 +14,20 @@
     line-height: 60px;
 }
 .title-two {
-    font-weight: bold;
+    font-weight: 500;
     font-size: 36px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
 }
 .title-three {
-    font-weight: normal;
+    font-weight: 500;
     font-size: 20px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    color: #2e2f42 ;
 }
 .button-text {
     font-weight: 500;
@@ -57,4 +63,17 @@
     text-align: center;
     color: #ffffff ;
 
+}
+.paragraph-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+}
+.section-three-text {
+    background-color: #F4F4FD;
+
+}
+.list-one-text {
+    background-color: #FFFFFF;
 }
