@@ -24,10 +24,14 @@
     letter-spacing: 2%;
 }
 .button-text {
-    font-weight: normal;
+    font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 4%;
+    font-family: "Roboto", sans-serif;
+    background-color: #4D5AE5;
+    letter-spacing: 0.04em;
+    color: #ffffff ;
 }
 .nav-text {
     text-decoration: none;
@@ -44,5 +48,13 @@
 }
 .span-text {
     color:  #2e2f42;
-    
+
+}
+.section-one-text {
+    background-color: #2e2f42;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #ffffff ;
+
 }
